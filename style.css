@@ -27,8 +27,7 @@ html,body{
 
 .screen{
 
-    background-color: rgb(28, 42, 42);
-    background: url(/dark2.jpg);
+    background: url('./dark2.jpg') rgb(28, 42, 42);
     background-size: cover;
     background-repeat: no-repeat;
     color:white;
@@ -50,7 +49,7 @@ html,body{
     font-size: 2.35rem;
     color: #3a3a3a;
     border-right: 2px solid rgba(149, 149, 149, 0.448);
-    border-bottom: 2px solid rgba(149, 149, 149, 0.448);;
+    border-bottom: 2px solid rgba(149, 149, 149, 0.448);
     padding: 1rem 1.3rem;
 }
 
